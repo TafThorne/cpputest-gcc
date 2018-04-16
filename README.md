@@ -2,6 +2,13 @@
 Docker Image packaging CppUTest http://cpputest.github.io/ ontop of The Docker
 Official Image for GNU gcc
 
+The Docker Image is listed on Docker Hub:
+https://hub.docker.com/r/tafthorne/cpputest-gcc/
+
+To pull the image:
+
+ docker pull tafthorne/cpputest-gcc
+
 ## CppUTest
 
 CppUTest is a unit testing and mocking framework for C/C++.  For further
